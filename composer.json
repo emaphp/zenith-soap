@@ -1,0 +1,17 @@
+{
+	"name": "zenith/soap",
+	"type": "library",
+	"description": "Zenith Framework SOAP package",
+	"keywords": ["soap", "zenith"],
+	"license": "BSD 2-Clause",
+	"authors": [
+		{
+			"name": "Emmanuel Antico",
+			"email": "emmanuel.antico@gmail.com"
+		}
+	]
+	,
+    "autoload": {
+		"psr-0": {"Zenith\\SOAP": "src/"}
+	}
+}
